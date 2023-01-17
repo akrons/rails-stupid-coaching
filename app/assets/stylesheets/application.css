@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+html * {
+  font-family: Nunito, sans-serif;
+}
+
+.answer-page {
+
+}
+
+#answer {
+  background-color: rgba(233, 233, 152, 0.691);
+}
+
+#question {
+
+}
